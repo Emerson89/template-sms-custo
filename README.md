@@ -7,6 +7,8 @@ Dependencias
 
 - Zabbix 4.4
 - Role cloudwatchReadOnly
+- boto3
+- Python3
 
 Como utilizar
 
